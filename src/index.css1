@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Set a dark background immediately to prevent white flashes while loading */
+body {
+  background-color: #000000;
+  color: #ffffff;
+}

@@ -1,0 +1,5 @@
+# Format: URL | Description (Optional)
+
+https://i.imgur.com/rfH0YJw.jpeg | Mirage photo by my desktop example
+https://i.imgur.com/QthbBdR.jpeg | Another example image
+https://i.imgur.com/xjfBBGb.png | Sample image

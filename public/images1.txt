@@ -1,0 +1,7 @@
+# Format: URL | Description (Optional)
+
+[https://i.imgur.com/eZOqrPo.jpeg] | Mirage photo by my desktop example
+
+
+# You can also just use the URL without a description
+[https://i.imgur.com/xjfBBGb.png]
