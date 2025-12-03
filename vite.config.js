@@ -8,5 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "./" //repo name
+  base: "./", //repo name
+  publicDir: 'public'
 })
