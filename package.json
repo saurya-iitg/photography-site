@@ -8,8 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",  // <-- Add this line
-    "deploy": "gh-pages -d dist"   // <-- Add this line
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d dist"  
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.17",
