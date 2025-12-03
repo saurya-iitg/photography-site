@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: "./", //repo name
-  publicDir: 'public'
+  publicDir: '/public'
 })
