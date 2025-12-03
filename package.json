@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",  // <-- Add this line
+    "deploy": "gh-pages -d dist"   // <-- Add this line
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.17",
